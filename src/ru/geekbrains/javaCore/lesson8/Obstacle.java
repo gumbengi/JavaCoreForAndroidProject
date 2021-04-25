@@ -1,5 +1,5 @@
 package ru.geekbrains.javaCore.lesson8;
 
-interface Obstacle {
+public interface Obstacle {
     void test(MovingObject movingObject);
 }
